@@ -1,5 +1,5 @@
 # statistics_tools_for_ALevel_students
-some selfmade tools to calculate statistical values
+some self-made tools to calculate statistical values
 
 these were made when I was studying S1 and S2
 
@@ -7,8 +7,9 @@ these were made when I was studying S1 and S2
 
 e.g.
 
-| 1<=x<2 | 2<=x<3 |
--------------------
-|    2   |   4    |
+ 1 ≤ x < 2  | 2 ≤ x < 3
+ :----: | :-----:
+ 2  | 4
+
 
 "binomial", "percentile", and "passion" are independent. their function is the same as their name.
